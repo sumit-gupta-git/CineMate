@@ -1,0 +1,41 @@
+{
+  "name": "numpy",
+  "version": "2.3.4",
+  "build": "py313h720eef7_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "subdir": "linux-64",
+  "fn": "numpy-2.3.4-py313h720eef7_0.conda",
+  "md5": "93e3ec159e62eccd5937a6254df8d2bd",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/numpy-2.3.4-py313h720eef7_0.conda",
+  "sha256": "1ceee591bb1d27014c356a464172275e216d37690f0ae9fb685359d8c3399475",
+  "depends": [
+    "mkl_fft",
+    "mkl_random",
+    "libgcc-ng >=11.2.0",
+    "libstdcxx-ng >=11.2.0",
+    "python >=3.13,<3.14.0a0",
+    "python_abi 3.13.* *_cp313",
+    "blas 1.0 mkl",
+    "__glibc >=2.28,<3.0.a0",
+    "mkl-service >=2.3.0,<3.0a0",
+    "mkl >=2025.0.0,<2026.0a0",
+    "numpy-base 2.3.4 py313h95072fd_0"
+  ],
+  "constrains": [],
+  "license": "BSD-3-Clause",
+  "timestamp": 1761914623000,
+  "size": 10088,
+  "requested_spec": "numpy",
+  "package_tarball_full_path": "/home/sumit/miniconda3/pkgs/numpy-2.3.4-py313h720eef7_0.conda",
+  "extracted_package_dir": "/home/sumit/miniconda3/pkgs/numpy-2.3.4-py313h720eef7_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/home/sumit/miniconda3/pkgs/numpy-2.3.4-py313h720eef7_0",
+    "type": 1
+  }
+}

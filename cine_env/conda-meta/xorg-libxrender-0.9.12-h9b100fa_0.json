@@ -1,0 +1,75 @@
+{
+  "name": "xorg-libxrender",
+  "version": "0.9.12",
+  "build": "h9b100fa_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/linux-64",
+  "subdir": "linux-64",
+  "fn": "xorg-libxrender-0.9.12-h9b100fa_0.conda",
+  "md5": "0556e5009c0a289293cffc9ad001809c",
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/xorg-libxrender-0.9.12-h9b100fa_0.conda",
+  "sha256": "f1b44031166029b616f370ccc1a7ce3f1c015baa53a5faeecbd78c98f028d13f",
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "xorg-libx11 >=1.8.12,<2.0a0",
+    "xorg-xorgproto >=2024.1,<2025.0a0"
+  ],
+  "constrains": [],
+  "license": "MIT",
+  "timestamp": 1746172581000,
+  "size": 31917,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/home/sumit/miniconda3/pkgs/xorg-libxrender-0.9.12-h9b100fa_0.conda",
+  "extracted_package_dir": "/home/sumit/miniconda3/pkgs/xorg-libxrender-0.9.12-h9b100fa_0",
+  "files": [
+    "include/X11/extensions/Xrender.h",
+    "lib/libXrender.so",
+    "lib/libXrender.so.1",
+    "lib/libXrender.so.1.3.0",
+    "lib/pkgconfig/xrender.pc"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "include/X11/extensions/Xrender.h",
+        "path_type": "hardlink",
+        "sha256": "fa8cd26e0cf279b0677cc4ec3f8c5b0eb012e5a576fc6a776b45f3253a93ebe3",
+        "size_in_bytes": 33826,
+        "sha256_in_prefix": "fa8cd26e0cf279b0677cc4ec3f8c5b0eb012e5a576fc6a776b45f3253a93ebe3"
+      },
+      {
+        "_path": "lib/libXrender.so",
+        "path_type": "softlink",
+        "sha256": "136f2fca515c7ab06c5623b66b2090405086a80a73c46303ee39536928ef6544",
+        "size_in_bytes": 52832
+      },
+      {
+        "_path": "lib/libXrender.so.1",
+        "path_type": "softlink",
+        "sha256": "136f2fca515c7ab06c5623b66b2090405086a80a73c46303ee39536928ef6544",
+        "size_in_bytes": 52832
+      },
+      {
+        "_path": "lib/libXrender.so.1.3.0",
+        "path_type": "hardlink",
+        "sha256": "136f2fca515c7ab06c5623b66b2090405086a80a73c46303ee39536928ef6544",
+        "size_in_bytes": 52832,
+        "sha256_in_prefix": "136f2fca515c7ab06c5623b66b2090405086a80a73c46303ee39536928ef6544"
+      },
+      {
+        "_path": "lib/pkgconfig/xrender.pc",
+        "prefix_placeholder": "/croot/xorg-libxrender_1746172549266/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "sha256": "ea2c8d037ea041b58274c530a16ffacf7bb49c1c72f93339379a7f417491204a",
+        "size_in_bytes": 515,
+        "sha256_in_prefix": "42a039300bdc71c705fc3307ab59de843e05d449a3227a1cb4332451f93da340"
+      }
+    ]
+  },
+  "link": {
+    "source": "/home/sumit/miniconda3/pkgs/xorg-libxrender-0.9.12-h9b100fa_0",
+    "type": 1
+  }
+}
